@@ -1,0 +1,13 @@
+div#mymodule_block_home p {
+    font-size: 150%;
+    font-style:italic;
+    margin-top: 3rem;
+
+}
+.block{
+  text-align: center;
+}
+
+.adoySprites{
+  margin-bottom: 3rem;
+}
